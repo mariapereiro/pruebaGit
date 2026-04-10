@@ -17,6 +17,8 @@ public class Main {
 		String clase;
 
 		String inventarioPersonaje[] = new String[10];
+		
+		int ejemplo=67;
 
 		// posición 0 vidaOriginal
 		// posición 1 vida
